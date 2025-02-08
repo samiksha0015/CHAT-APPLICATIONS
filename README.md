@@ -3,7 +3,7 @@
 
 **NAME** : Samiksha Kavduji Raipure
 
-**INTRN ID**: CT08MCU
+**INTERN ID**: CT08MCU
 
 **DOMAIN**:Full Stack Web Development
 
